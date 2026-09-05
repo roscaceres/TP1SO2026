@@ -4,7 +4,7 @@
     "title": "TP N° 1: Introducción a los Sistemas Operativos y Estructuras de Computación",
     "catedra": "Teoría de Sistemas Operativos - UNJu Facultad de Ingeniería",
     "version": "1.0.0",
-    "submitted_at": "2026-09-05T13:43:26.153Z"
+    "submitted_at": "2026-09-05T14:01:49.600Z"
   },
   "student": {
     "name": "Angela Rosana Cáceres",
@@ -89,7 +89,7 @@
       "so_horno_secado": "SO_EMBEDDED",
       "so_aeropuerto_vuelos": "SO_RT_HARD",
       "so_ecommerce_web": "SO_SERVER",
-      "so_tarjeta_sim": "SO_RT_HARD",
+      "so_tarjeta_sim": "SO_SMARTCARD",
       "so_horno_microondas": "SO_EMBEDDED",
       "so_marcapasos": "SO_RT_HARD",
       "so_laptop_estudiante": "SO_PC",
